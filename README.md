@@ -3,12 +3,7 @@
 - email: colmeneromartin318@gmail.com
 
 ## actividad 1
-- programa 1
-- programa 2
-- programa 3
-## actividad 2
-- programa 4
-- programa 5 
-
-## actividad 3 
--programa 6
+- p01_HolaMundo
+- p02_AreaCirculo
+- p03_AreaTriangulo
+- p04_pagaTrabajador

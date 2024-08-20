@@ -10,7 +10,7 @@ public class p02_AreaCirculo {
         System.out.print("Dame el radio ? ");
         radio = lradio.nextDouble();
         area = Math.PI * Math.pow(radio, 2);
-
         System.out.println(" el circulo de radio "+ radio + " tiene un area de " + area);
+        
     }
 }

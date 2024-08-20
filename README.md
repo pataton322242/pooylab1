@@ -22,3 +22,10 @@
 - p13 volumen cilindro
 - p14 calcula tiempo
 - p15 conversion a dolares
+
+## actividad 3
+- p16_TrabajandoEnteros
+- p17_TrabajandoFlotantes
+- p18_TrabajandoConstantes
+- p19_TrabajandoCaracteres
+- p20_ConversionTipos

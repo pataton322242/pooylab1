@@ -20,7 +20,7 @@ public class App {
         miequipo.agregarJugador(new JugadorActivo("VIVIANA MEDINA", 'M', "Banca No 20", 350, 5, 3));
         miequipo.agregarJugador(new JugadorActivo("Andrea Solis", 'M', "Principal No 12", 550, 5, 5));
         miequipo.agregarJugador(new JugadorActivo("Marissa Hernandez", 'M', "Principal No 12", 600, 4, 2));
-        miequipo.agregarJugador(new JugadorActivo("Diana Soto", 'M', "Principal No 12", 700, 5, 3));
+        miequipo.agregarJugador(new JugadorActivo("patrcia melano", 'M', "Principal No 12", 700, 5, 3));
 
         miequipo.reporte();
     }

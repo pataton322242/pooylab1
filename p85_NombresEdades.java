@@ -23,6 +23,6 @@ public class p85_NombresEdades {
     }
     p=s/n;
     System.out.println("\nEl promedio de edades es "+p);
-    Sebas.close();
+    
     }
 }
